@@ -1,0 +1,75 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 8, 2021, 1:37:58 PM
+    Author     : NHULT
+*/
+
+
+body
+{
+    background-image:url("https://data.whicdn.com/images/354289830/original.jpg?t=1616868148");
+}
+
+.checkout
+{
+    border:1px solid #f2f2f2;
+    height:300px;
+    border-radius:20px;
+    background:#fff;
+}
+.checkout_header
+{
+    background:#08A42A;
+    padding:20px;
+    border-radius:20px 20px 0px 0px;
+
+}
+
+.check
+{
+    margin:0px auto;
+    width:50px;
+    height:50px;
+    border-radius:100%;
+    background:#fff;
+    text-align:center;
+}
+
+.check i
+{
+    vertical-align:middle;
+    line-height:50px;
+    font-size:30px;
+}
+
+.content 
+{
+    text-align:center;
+}
+
+.content  h1
+{
+    font-size:25px;
+    padding-top:25px;
+}
+
+.content a
+{
+    width:200px;
+    height:35px;
+    color:#fff;
+    border-radius:30px;
+    padding:5px 10px;
+    background:#08A42A;
+    transition:all ease-in-out 0.3s;
+}
+
+.content a:hover
+{
+    text-decoration:none;
+    background:#000;
+}
